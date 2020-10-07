@@ -1,4 +1,3 @@
--Belajar ilmu ilmu dasar statistika 12 hari berturut-turut
 -Belajar tentang data science 100 hari berturut-turut
 -Praktek cleaning data 7 Hari berturut-turut
 -Mendalami Machine Learning 10 Hari berturut-turut
